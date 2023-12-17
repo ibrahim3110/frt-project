@@ -1,5 +1,5 @@
 # FRT Project
-My project is a website for a Hospital.
+My project is a website for a Hospital.The azure services that I use are Static Web Apps, Visual Studio Code and Health Bot.
 
 My Health Bot https://healthcare-bot-bmygt7khn4p4i.azurewebsites.net/
 
